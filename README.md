@@ -1,4 +1,4 @@
-#Project Tornado with trollface flavor
+# Project Tornado with trollface flavor
 
 A project with tornado and troll faces flying around in mid air
 
